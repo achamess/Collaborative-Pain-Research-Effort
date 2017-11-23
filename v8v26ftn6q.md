@@ -9,5 +9,5 @@
     - 
     - 
 
-## Describe and Mani
+## Describe and Manipulate 
 
