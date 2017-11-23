@@ -18,7 +18,7 @@ Question: What are the cell types that reside in pain-related regions of the neu
  
  Solutions:
  	- Use single-cell or single-nucleus RNA-seq to generate a census at every region
- 	- Highly multiplexed Fluorescent In Situ Hybridization or In 
+ 	- Highly multiplexed Fluorescent In Situ Hybridization or In S
  
 
 
