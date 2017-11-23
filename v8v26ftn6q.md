@@ -12,5 +12,5 @@
 ## Describe
 
 **Cell Types**
-- In known pain-related regions of the PNS and CE
+- In known pain-related regions of the PNS and CNS, 
 
