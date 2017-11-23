@@ -9,5 +9,5 @@
     - 
     - 
 
-## Describe, Manipiu
+## Describe,
 
