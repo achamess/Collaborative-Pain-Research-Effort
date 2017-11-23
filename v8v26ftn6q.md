@@ -12,5 +12,5 @@
 ## Describe
 
 **Cell Types**
-- What is the 
+- What is the identity 
 
