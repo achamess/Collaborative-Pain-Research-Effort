@@ -9,9 +9,17 @@
 
 ## Describe
 
-**Cell Types**
-- In known pain-related regions of the PNS and CNS, what are the identity of all the cells in that 
-- 
+### Cell Types
+
+Question: What are the cell types that reside in pain-related regions of the neuraxis?
+	- Brain
+	- Spinal Cord
+	- DRG
+ 
+ Solutions:
+ 	- Use single-cell or single-nucleus RNA-seq to generate a census at every region
+ 	- 
+ 
 
 
 
