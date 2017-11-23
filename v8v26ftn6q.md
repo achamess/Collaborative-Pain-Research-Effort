@@ -4,5 +4,5 @@
 
 ### Generation of a standard and specific set of recombinase (Cre and Flp) driver lines for targeting pain-related cells
 - DRG lines
-    - With multiple single-cell studies now having defined canonical sets 
+    - With multiple single-cell studies now having defined canonical sets of  
 
