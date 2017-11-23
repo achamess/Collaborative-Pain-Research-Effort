@@ -12,5 +12,5 @@
 ## Describe
 
 **Cell Types**
-- In known pain-re
+- In known pain-related
 
