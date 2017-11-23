@@ -12,5 +12,5 @@
 ## Describe
 
 **Cell Types**
-- Which 
+- Which cells 
 
