@@ -21,7 +21,7 @@ Question: What are the cell types that reside in pain-related regions of the neu
  	- Highly multiplexed Fluorescent In Situ Hybridization or Spatial Transcriptomic method to determine the genes expressed by cells in their native locations
  	    - MERFISH
  	    - seqFISH
- 	    - DNA-Ex
+ 	    - DNA-Exchange Ima
  
 
 
