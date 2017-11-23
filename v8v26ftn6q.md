@@ -1,8 +1,5 @@
 # Specific Research Goals
-   
-      
-         
-        
+  
 
 
 ## Tools
