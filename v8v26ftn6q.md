@@ -23,7 +23,7 @@ Solutions:
     - MERFISH
  	- seqFISH
  	- DNA-Exchange Imaging
- 	    - FISSEQ
+ 	 - FISSEQ
  
 
 
