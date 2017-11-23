@@ -20,7 +20,7 @@ Solutions:
 
  - Use single-cell or single-nucleus RNA-seq to generate a census at every region
  - Highly multiplexed Fluorescent In Situ Hybridization or Spatial Transcriptomic method to determine the genes expressed by cells in their native locations
- 	    - MERFISH
+ 	   - MERFISH
  	    - seqFISH
  	    - DNA-Exchange Imaging
  	    - FISSEQ
