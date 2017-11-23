@@ -22,7 +22,7 @@ Solutions:
 - Highly multiplexed Fluorescent In Situ Hybridization or Spatial Transcriptomic method to determine the genes expressed by cells in their native locations
     - MERFISH
  	- seqFISH
- 	    - DNA-Exchange Imaging
+ 	 - DNA-Exchange Imaging
  	    - FISSEQ
  
 
