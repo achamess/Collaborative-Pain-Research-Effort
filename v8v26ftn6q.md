@@ -12,5 +12,5 @@
 ## Describe
 
 **Cell Types**
-- What is the identity of the cells 
+- What is the identity of the cells involved in 
 
