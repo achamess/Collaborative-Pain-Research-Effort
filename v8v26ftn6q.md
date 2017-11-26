@@ -28,6 +28,7 @@
  	- seqFISH
  	- DNA-Exchange Imaging
  	- FISSEQ
+<<<<<<< HEAD
 
 
 ### Activity-mapping
@@ -67,6 +68,8 @@ Immediate early gene (IEG)-based activity-mapping with different nociceptive and
 
   
 
+=======
+>>>>>>> origin/master
  
 
 
