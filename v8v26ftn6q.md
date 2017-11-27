@@ -28,7 +28,7 @@
  	- seqFISH
  	- DNA-Exchange Imaging
  	- FISSEQ
-<<<<<<< HEAD
+
 
 
 ### Activity-mapping
