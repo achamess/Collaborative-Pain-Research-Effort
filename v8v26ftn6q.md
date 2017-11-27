@@ -30,7 +30,6 @@
  	- FISSEQ
 
 
-
 ### Activity-mapping
 
 #### Question 2: What regions of the neuraxis participate in different aspects of pain and itch (cellular resolution)
