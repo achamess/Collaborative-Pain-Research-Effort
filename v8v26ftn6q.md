@@ -96,7 +96,6 @@
 - CLARITY
 - CUBIC
 - iDisco
-
 #### Morphology and Ultrastructure
 
 - Expansion microscopy 
