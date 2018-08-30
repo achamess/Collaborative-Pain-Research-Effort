@@ -88,8 +88,6 @@
 
 - Microelectrode array for DRG (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5546114/)
 - Nerve cuffs (?)
-- 
-
 
 
 
