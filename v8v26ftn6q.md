@@ -140,7 +140,7 @@ Viral Tools
 - Activators
 - Silencers
 - Light deliver 
-    - Wireless
+    - Wireless systems
 
 #### Chemogenetics and Toxins
 
