@@ -1,5 +1,5 @@
 Purpose and Vision:
-This review article will broadly summarize some of the powerful emerging technologies in neuroscience with a focus on their application to the study of pain. Whenever possible, examples in which these technologies have already been applied to pain will be given (ex. Optogenetics, Calcium Imaging). In the second part of the review, we will outline fundamental questions that 
+This review article will broadly summarize some of the powerful emerging technologies in neuroscience with a focus on their application to the study of pain. Whenever possible, examples in which these technologies have already been applied to pain will be given (ex. Optogenetics, Calcium Imaging). In the second part of the review, we will outline fundamental questions that can 
 
 
 # Outline
