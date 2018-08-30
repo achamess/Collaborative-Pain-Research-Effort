@@ -102,7 +102,7 @@
 - Serial Two Photon Tomography (STP)
 - Serial Electron Microscopy
 - Tissue Clearing 
-- mGRASP
+- mGRASP and dual-eGRASP
 - 
 
 
