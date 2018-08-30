@@ -84,7 +84,7 @@
 ##### In vivo electrophysiology
 - Neuropixels (https://www.nature.com/articles/nature24636)
 - Nerve cuffs (?)
-- Autopatcher
+- Autopatcher robot?
 
 ##### In vitro electrophysiology 
 
