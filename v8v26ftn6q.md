@@ -7,7 +7,7 @@
 - Brain
 - Spinal Cord
 - DRG
-- Non-neur
+- Non-neural d
  
 **Solutions**:
 
