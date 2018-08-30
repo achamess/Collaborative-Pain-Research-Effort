@@ -196,7 +196,7 @@ Viral Tools
 
 ### Question : How are the cells in the pain system connected?
 
-### Question 3: What is the function of each pain-related cell type?
+### Question : What is the function of each pain-related cell type?
 
 
 
