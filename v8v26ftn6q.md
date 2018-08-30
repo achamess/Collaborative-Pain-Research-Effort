@@ -37,7 +37,7 @@
 
 - GECI (GCaMP)
 - Two-photon imaging
-- 
+- In
 
 
 ##### Voltage Imaging
