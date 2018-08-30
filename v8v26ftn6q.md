@@ -198,7 +198,7 @@ Viral Tools
 
 ### Question : What is the contribution of each cell type to the behavioral outputs of pain?
 
-### Question : What are the morphological and electrophysiological properties of pain-related cells?
+### Question : What are the morphologicalelectrophysiological properties of pain-related cells?
 
 ### Question : Which cell types and cell ensembles are engaged by different noxious stimuli?
 
