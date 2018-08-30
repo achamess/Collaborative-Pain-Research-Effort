@@ -100,7 +100,7 @@
 #### Miscellaneous Microscopy
 
 - Expansion microscopy 
-- Live cell 
+- Live cell ima
 
 #### Connectivity
 
