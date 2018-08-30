@@ -97,7 +97,7 @@
 - CUBIC
 - iDisco
 
-#### Connect
+#### Connectivity
 
 - Serial Two Photon Tomography (STP)
 
