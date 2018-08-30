@@ -7,7 +7,7 @@
 - Brain
 - Spinal Cord
 - DRG
-- Non-neural d
+- Non-neural tissues (e.g. )
  
 **Solutions**:
 
