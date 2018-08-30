@@ -19,7 +19,7 @@
 - Single Cell RNA-seq/Single Nucleus RNA-seq
 - Single Cell ATAC-seq
 - Single Cell DNA-seq
-- Multimodal 
+- Multimodal Single Cell Transci
 
 
 
