@@ -111,7 +111,7 @@
 - mGRASP and dual-eGRASP (http://science.sciencemag.org/content/360/6387/430)
 - trans-Tango (https://www.ncbi.nlm.nih.gov/pubmed/29107518)
 - MAPseq
-- ConnectID 
+- ConnectID (https://www.biorxiv.org/content/biorxiv/early/2018/07/27/378760.full.pdf)
 
 Viral Tools
 
