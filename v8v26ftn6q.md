@@ -145,7 +145,7 @@
 
 ### Question 3: What is the function of each pain-related cell type?
 
-### Question 4: How do different noxious stimuli differentially engage 
+### Question 4: How do different noxious stimuli differentially engage different cell types of the pain system?
  
 
 
