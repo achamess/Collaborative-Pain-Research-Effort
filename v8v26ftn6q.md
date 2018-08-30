@@ -128,7 +128,7 @@ Viral Tools
 
 - DeepLabCut
 - LEAP 
-- Abdus-saboor et  high speed video 
+- Abdus-saboor et al. high speed video 
 - Automated Grimace Scale
 - Unsupervised (Wiltschko et al. 2015)
 
