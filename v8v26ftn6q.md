@@ -17,7 +17,7 @@ This review article will broadly summarize some of the powerful emerging technol
 - Patch-seq  
 - Mass Cytometry
 - Single cell westerns
-- SORT-M in vivo 
+- SORT-M (c)
 
 #### Conventional Omics
 
