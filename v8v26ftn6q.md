@@ -134,7 +134,7 @@
 
 ## Applications 
 
-### Question 1: Which cells participate 
+### Question 1: Which cells participate in 
 
 - Brain
 - Spinal Cord
