@@ -95,7 +95,7 @@
 
 - CLARITY
 - CUBIC
-- iD
+- iDisco
 
 
 ##### Visualization
