@@ -130,7 +130,7 @@ Viral Tools
 
 #### Optogenetics
 
-- 
+- ChR2
 
 #### Chemogenetics
 
