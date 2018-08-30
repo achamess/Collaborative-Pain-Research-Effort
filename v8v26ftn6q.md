@@ -7,9 +7,6 @@
     - With multiple single-cell studies now having defined canonical classes of DRG neurons (Usoskin et al), we should have a standard set of Cre- and Flp- mice that can definitively 
 
 
-## Describe
-
-
 
 ### Cell Types
 
