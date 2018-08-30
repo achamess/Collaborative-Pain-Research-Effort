@@ -14,7 +14,7 @@
 - Mass Cytometry
 - Flow Cytometry
 
-#### Conventional P
+#### Conventional 
 
 #### Spatial Transcriptomics and Proteomics
 
