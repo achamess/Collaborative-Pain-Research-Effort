@@ -133,7 +133,7 @@ Viral Tools
 - Activators
 - Silencers
 
-#### Chemogenetics
+#### Chemogenetics and Toxins
 
 - DREADDs
 - PSAMs
