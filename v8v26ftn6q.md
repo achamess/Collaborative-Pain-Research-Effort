@@ -29,7 +29,7 @@
 - CODEX
 - seqFISH
 - MERFISH
-- 
+- PLISH
 
 
 
