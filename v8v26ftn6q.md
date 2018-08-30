@@ -10,6 +10,7 @@
 - Non-neural tissues (e.g. skin, gut)
 
 
+
 ### Single Cell Genomics
 
 - Use single-cell or single-nucleus RNA-seq to generate a cellular census at every region
