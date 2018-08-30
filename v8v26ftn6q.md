@@ -176,7 +176,7 @@ Viral Tools
 
 ### Bayesian Statistics
 
-### Machine Learnng
+### Machine Learning 
 
 
 ## Applications 
