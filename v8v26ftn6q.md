@@ -22,7 +22,7 @@
 - ChIP-seq
 - LC/MS Proteomics
 - Metabolomics
-- 
+- Gl
 
 #### Spatial Transcriptomics and Proteomics
 
