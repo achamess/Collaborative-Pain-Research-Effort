@@ -1,6 +1,6 @@
 
 
-### Cell Types
+## Cell Types
 
 #### Question 1: What are the cell types that reside in pain-related regions of the neuraxis?
 
