@@ -130,7 +130,7 @@ Viral Tools
 - LEAP 
 - Ishmail high speed video 
 - Automated Grimace Scale
-- Unsupervised (Wiltschko et al. 201)
+- Unsupervised (Wiltschko et al. 2015)
 
 -------------
 
