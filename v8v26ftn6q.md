@@ -134,7 +134,7 @@
 
 ## Applications 
 
-### Question 1: What are the cell types that reside in pain-related regions of the neuraxis?
+### Question 1: Which cells participate 
 
 - Brain
 - Spinal Cord
