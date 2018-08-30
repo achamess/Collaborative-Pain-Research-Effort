@@ -203,8 +203,6 @@ Viral Tools
 ### Question : Which cell types and cell ensembles are engaged by different noxious stimuli?
 
 
-###
-
 
 
 ### Question : How do different pathological insults alter the properties of pain-related cell types?
