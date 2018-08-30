@@ -117,7 +117,7 @@ Viral Tools
 
 ##### Analysis
 
-- De
+- Deep
 
 
 ### Manipulative Tools
