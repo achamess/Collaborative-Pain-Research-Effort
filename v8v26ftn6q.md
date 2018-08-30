@@ -139,7 +139,7 @@ Viral Tools
 - CRISPR-Cas9
 - Cre-lox and other recombinase lines
 - Viral tools 
-- Epigenetic manipula
+- Epigenetic manipulation 
 
 
 
