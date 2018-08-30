@@ -36,7 +36,7 @@
 ##### Calcium Imaging
 
 - GECI (GCaMP)
-- Two-photon imaging
+- Two-photon imaging/Confocal
 - In vivo calcium imaging (Inscopix, Miniscope)
 - Fiber photometry 
 
