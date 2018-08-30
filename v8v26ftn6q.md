@@ -50,7 +50,7 @@
 - Two-photon imaging/Confocal
 - In vivo calcium imaging (Inscopix, Miniscope)
 - Fiber photometry 
-- 
+- In vitro calcium imaging 
 
 ##### Voltage Imaging
 
