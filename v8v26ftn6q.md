@@ -14,7 +14,7 @@
 ### Descriptive Readouts
 
 
-### Single Cell and  Genomics
+### Single Cell and Cell-Specific Genomics
 
 - Single Cell RNA-seq/Single Nucleus RNA-seq
 - Single Cell ATAC-seq
