@@ -13,7 +13,7 @@
 - Patch-seq  
 - Mass Cytometry
 - Single cell westerns
-- SORT-
+- SORT-M
 
 #### Conventional Omics
 
