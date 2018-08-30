@@ -12,7 +12,7 @@
 - Multimodal Single Cell Transcriptomics/Proteomics (CITE-seq, REAP-seq)
 - Patch-seq  
 - Mass Cytometry
--Flow Cytometry
+- Flow Cytometry
 
 ### Spatial Transcriptomics and Proteomics
 
