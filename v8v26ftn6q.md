@@ -51,7 +51,6 @@
 - In vivo calcium imaging (Inscopix, Miniscope)
 - Fiber photometry 
 
-
 ##### Voltage Imaging
 
 
