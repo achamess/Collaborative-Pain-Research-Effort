@@ -53,7 +53,8 @@
 
 ##### Voltage Imaging
 
-- GEVI
+- GEVIs
+- I
 
 
 
