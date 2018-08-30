@@ -194,7 +194,7 @@ Viral Tools
 - Non-neural tissues (e.g. skin, gut)
 
 
-### Question 2: How are the cells in the pain system connected?
+### Question : How are the cells in the pain system connected?
 
 ### Question 3: What is the function of each pain-related cell type?
 
