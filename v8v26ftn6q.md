@@ -134,7 +134,7 @@
 
 ## Applications 
 
-### Question 1: Which cells participate in noc
+### Question 1: Which cells participate in nocic
 
 - Brain
 - Spinal Cord
