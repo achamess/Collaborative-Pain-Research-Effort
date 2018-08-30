@@ -146,7 +146,7 @@ Viral Tools
     - Bioluminescence 
 - Signaling pathways
     - Opioid signaling
-    - Adrene
+    - Adrenergic signaling 
 
 #### Chemogenetics and Toxins
 
