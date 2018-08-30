@@ -140,8 +140,7 @@ Viral Tools
 - Activators
 - Silencers
 - Light deliver 
-    - Neurolux
-    - Cuff
+    - Wireless
 
 #### Chemogenetics and Toxins
 
