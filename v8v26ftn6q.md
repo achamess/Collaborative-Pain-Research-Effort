@@ -27,7 +27,8 @@
 - osmFISH
 - STARmap
 - CODEX
-- seq
+- seqFISH
+- 
 
 
 
