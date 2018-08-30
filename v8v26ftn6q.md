@@ -81,7 +81,7 @@
 
 #### In Vivo Electrophysiology
 
-- Neuropixels *https://www.nature.com/articles/nature24636
+- Neuropixels https://www.nature.com/articles/nature24636
 
 
 
