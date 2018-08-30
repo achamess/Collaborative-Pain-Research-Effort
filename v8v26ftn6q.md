@@ -109,7 +109,7 @@ Viral Tools
 
 - PRV
 - Monosynaptic Rabies Tracing
-- HDVHSV129
+- HSV and HSV129
 - AAV and retro-AAV
 
 
