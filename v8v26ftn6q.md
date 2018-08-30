@@ -131,7 +131,7 @@ Viral Tools
 #### Optogenetics
 
 - Activators
-- In
+- Silencers
 
 #### Chemogenetics
 
