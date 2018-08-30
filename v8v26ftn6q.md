@@ -130,7 +130,7 @@ Viral Tools
 
 #### Optogenetics
 
-- Act
+- Activators (C)
 
 #### Chemogenetics
 
