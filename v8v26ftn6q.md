@@ -54,7 +54,7 @@
 ##### Voltage Imaging
 
 - GEVIs
-- In vivo vola
+- In vivo voltage imaging
 
 
 
