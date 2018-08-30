@@ -16,7 +16,7 @@
 
 ### Single Cell Genomics
 
-- Single Cell RNA-seq/Single N
+- Single Cell RNA-seq/Single Nuc
 
 
 
