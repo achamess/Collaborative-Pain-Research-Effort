@@ -15,7 +15,7 @@
 
 ### Spatial Transcriptomics and Proteomics
 
-**Transcriptomics**
+####Transcriptomics**
 
 - osmFISH
 - STARmap
@@ -24,6 +24,7 @@
 - MERFISH
 - PLISH
 - FISSEQ
+
 
 **Proteomics**
 
