@@ -65,7 +65,6 @@ Immediate early gene (IEG)-based activity-mapping with different nociceptive and
 
 - FosTRAP mouse
 - FosGFP mouse
-
 - FLARE or CAL-LIGHT
 - CANE (Fan Wang)
 - CaMPARI
