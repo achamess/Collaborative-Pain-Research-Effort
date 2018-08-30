@@ -35,7 +35,7 @@
 
 ##### Calcium Imaging
 
-- GECI
+- GECIs
 
 
 ##### Voltage Imaging
