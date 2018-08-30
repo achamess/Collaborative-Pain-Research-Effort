@@ -100,7 +100,7 @@
 #### Connectivity
 
 - Serial Two Photon Tomography (STP)
-- Serial 
+- Serial E
 
 
 
