@@ -32,6 +32,7 @@
 
 
 
+
 - Highly multiplexed Fluorescent In Situ Hybridization (FISH) or Spatial Transcriptomic method to determine the genes expressed by cells in their native locations
     - MERFISH
  	- seqFISH
