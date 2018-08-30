@@ -196,7 +196,7 @@ Viral Tools
 
 ### Question : How are the cells in the pain system connected?
 
-### Question : What is the contribution of each 
+### Question : What is the contribution of each cell type to 
 
 ### Question : What are the morphological and electrophysiological properties of pain-related cells?
 
