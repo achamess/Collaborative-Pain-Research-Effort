@@ -30,7 +30,7 @@
 - seqFISH
 - MERFISH
 - PLISH
-- 
+- FI
 
 
 
