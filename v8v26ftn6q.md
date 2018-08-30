@@ -4,7 +4,7 @@
 
 ### Descriptive Readouts (What is there?) -> Measurements 
 
-### Single Cell and Cell-Specific Methods (Genomics/Proteomics)
+#### Single Cell and Cell-Specific Methods (Genomics/Proteomics)
 
 - Single Cell RNA-seq/Single Nucleus RNA-seq
 - Single Cell ATAC-seq
