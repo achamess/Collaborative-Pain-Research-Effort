@@ -28,7 +28,7 @@
 - STARmap
 - CODEX
 - seqFISH
-- ME
+- MERFISH
 
 
 
