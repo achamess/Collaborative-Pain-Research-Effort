@@ -97,7 +97,7 @@
 - CUBIC
 - iDisco
 
-#### O
+#### Miscellaneous Micros
 
 - Expansion microscopy 
 
