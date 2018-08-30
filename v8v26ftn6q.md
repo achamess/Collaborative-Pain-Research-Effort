@@ -84,11 +84,11 @@
 ##### In vivo electrophysiology
 - Neuropixels (https://www.nature.com/articles/nature24636)
 - Nerve cuffs (?)
+- 
 
 ##### In vitro electrophysiology 
 
 - Microelectrode array for DRG (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5546114/)
--
 
 
 
