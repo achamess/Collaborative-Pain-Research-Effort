@@ -137,7 +137,7 @@ Viral Tools
 #### Gene Manipulation
 
 - CRISPR-Cas9
-- Cre-lox and other recom
+- Cre-lox and other recombinase 
 
 
 
