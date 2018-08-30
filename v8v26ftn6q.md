@@ -37,7 +37,7 @@
 
 - GECI (GCaMP)
 - Two-photon imaging
-- In vivo calcium 
+- In vivo calcium imaging 
 
 
 ##### Voltage Imaging
