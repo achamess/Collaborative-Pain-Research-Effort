@@ -209,7 +209,7 @@ Viral Tools
 
 ### Question : How do other sensory and motor systems interact with pain-related systems?
 
-### Goal : Specific mani
+### Goal : Specific targetting and manipulation 
 
 
 
