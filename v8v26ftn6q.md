@@ -18,7 +18,7 @@
 
 - Single Cell RNA-seq/Single Nucleus RNA-seq
 - Single Cell ATAC-seq
-- Single Cell 
+- Single Cell DNA-seq
 
 
 
