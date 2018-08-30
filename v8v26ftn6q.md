@@ -25,7 +25,6 @@
 - PLISH
 - FISSEQ
 
-
 #### Proteomics
 
 - CODEX
