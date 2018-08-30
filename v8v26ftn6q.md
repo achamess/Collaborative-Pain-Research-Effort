@@ -129,7 +129,7 @@ Viral Tools
 - DeepLabCut
 - LEAP 
 - Ishmail high speed video 
-- Automated Gr
+- Automated Grimace Scale
 
 -------------
 
