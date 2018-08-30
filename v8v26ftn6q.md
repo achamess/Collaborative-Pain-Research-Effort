@@ -16,7 +16,7 @@
 
 #### Conventional Omics
 
-- RNA-seqw
+- RNA-seq
 - 
 
 #### Spatial Transcriptomics and Proteomics
