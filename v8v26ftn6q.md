@@ -4,7 +4,6 @@
 
 ### Descriptive Readouts
 
-
 ### Single Cell and Cell-Specific Genomics
 
 - Single Cell RNA-seq/Single Nucleus RNA-seq
