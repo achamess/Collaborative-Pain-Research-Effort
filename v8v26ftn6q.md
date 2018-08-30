@@ -12,7 +12,7 @@
 - Multimodal Single Cell Transcriptomics/Proteomics (CITE-seq, REAP-seq)
 - Patch-seq  
 - Mass Cytometry
-- Single cell we
+- Single cell westerns
 
 #### Conventional Omics
 
