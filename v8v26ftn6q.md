@@ -17,6 +17,13 @@
     -  Drop-seq/10x
     -  combinatorial indexing
     -  FACS + Smart-seq2
+    -  
+    -  
+    -  
+    -  
+    -  
+    -  
+    -  
 - Highly multiplexed Fluorescent In Situ Hybridization (FISH) or Spatial Transcriptomic method to determine the genes expressed by cells in their native locations
     - MERFISH
  	- seqFISH
