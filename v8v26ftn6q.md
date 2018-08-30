@@ -174,7 +174,7 @@ Viral Tools
 
 ## Data to Insight - Emerging Analytical Tools
 
-### Ba
+### Bayesian St
 
 
 ## Applications 
