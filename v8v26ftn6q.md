@@ -25,7 +25,7 @@
 
 ### Spatial Transcriptomics and Proteomics
 
-**Transcriptomicss**
+**Transcriptomics**
 
 - osmFISH
 - STARmap
