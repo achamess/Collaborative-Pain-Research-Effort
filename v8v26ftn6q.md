@@ -56,7 +56,7 @@
 
 - GEVIs
 - In vivo voltage imaging using two-photon
-- 
+- In vitro voltage imaging
 
 
 
