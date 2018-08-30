@@ -200,7 +200,7 @@ Viral Tools
 
 ### Question : What are the morphological and electrophysiological properties of pain-related cells?
 
-### Question 4: Which cell types and cell ensembles are engagd
+### Question 4: Which cell types and cell ensembles are engaged by different noxious stimuli?
 
 
 
