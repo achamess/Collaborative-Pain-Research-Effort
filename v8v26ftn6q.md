@@ -1,4 +1,4 @@
-Purpose and Theme:
+Purpose and Theme
 
 
 
