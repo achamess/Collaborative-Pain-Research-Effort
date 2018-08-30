@@ -101,7 +101,7 @@
 
 - Expansion microscopy 
 - Live cell imaging 
-- Long-term inv
+- Long-term in vivo imaging 
 
 #### Connectivity
 
