@@ -139,7 +139,7 @@ Viral Tools
 
 - Activators
 - Silencers
-- Light de
+- Light deliver 
 
 #### Chemogenetics and Toxins
 
