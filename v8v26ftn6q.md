@@ -139,7 +139,7 @@ Viral Tools
 
 #### Gene Manipulation
 
-- CR
+- CRISPR-Cas9
 
 
 #### Toxins and other silencers 
