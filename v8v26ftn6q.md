@@ -138,7 +138,7 @@ Viral Tools
 - DREADDs
 - PSAMs
 - Tetanus Toxin
-- D
+- DTR
 
 #### Gene Manipulation
 
