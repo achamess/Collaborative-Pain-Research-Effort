@@ -2,6 +2,7 @@ Purpose and Vision:
 
 
 
+
 # Outline
 
 ## Technologies
