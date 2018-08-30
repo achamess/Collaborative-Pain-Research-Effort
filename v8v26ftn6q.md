@@ -1,6 +1,7 @@
 # Outline
 
-## Te
+## Technologies
+
 ### Descriptive Readouts
 
 
