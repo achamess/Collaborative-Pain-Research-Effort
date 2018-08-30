@@ -179,7 +179,7 @@ Viral Tools
 
 #### Cell Technologies
 
-- i
+- Patient-derived iPSC cells
 
 
 ## Data to Insight - Emerging Analytical Tools
