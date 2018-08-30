@@ -19,7 +19,7 @@
 - RNA-seq
 - DNA-seq
 - ATAC-seq
-- ChIP
+- ChIP-seq
 
 #### Spatial Transcriptomics and Proteomics
 
