@@ -59,7 +59,7 @@
 - In vitro voltage imaging
 
 
-##### 
+##### Activity-Dependent Gene
 
 
 
