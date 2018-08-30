@@ -98,12 +98,6 @@
 - iDisco
 
 
-##### Visualization
-
-- Optical clearing + Light Sheet Microscopy
-    - CLARITY 
-    - CUBIC
-    - iDisco
 
 - Serial Two Photon Tomography (STP)
 
