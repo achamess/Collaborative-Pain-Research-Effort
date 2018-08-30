@@ -66,7 +66,7 @@
 - FLARE or CAL-LIGHT
 - CANE (Fan Wang)
 - CaMPARI
-- Sensors:
+- Sensors: c
 
 
 
