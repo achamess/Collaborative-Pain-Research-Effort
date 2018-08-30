@@ -11,7 +11,7 @@
 - Single Cell DNA-seq
 - Multimodal Single Cell Transcriptomics/Proteomics (CITE-seq, REAP-seq)
 - Patch-seq  
-- Mass Cyto
+- Mass Cytometry
 
 ### Spatial Transcriptomics and Proteomics
 
