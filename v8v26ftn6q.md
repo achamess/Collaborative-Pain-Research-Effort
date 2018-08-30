@@ -96,11 +96,6 @@
 
 
 
-
-
-### Activity-mapping
-
-
 ##### Visualization
 
 - Optical clearing + Light Sheet Microscopy
