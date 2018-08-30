@@ -2,7 +2,7 @@
 
 ## Technologies
 
-### Descriptive Readouts (What is there?) - 
+### Descriptive Readouts (What is there?) -
 
 ### Single Cell and Cell-Specific Genomics
 
