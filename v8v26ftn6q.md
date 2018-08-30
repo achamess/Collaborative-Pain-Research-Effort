@@ -144,7 +144,7 @@ Viral Tools
     - Cuff systems 
     - Traditional fiber optics
     - Bioluminescence 
-- Signaling 
+- Signaling pathways
 
 #### Chemogenetics and Toxins
 
