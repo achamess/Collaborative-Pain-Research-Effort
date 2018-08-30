@@ -12,7 +12,6 @@
 - Multimodal Single Cell Transcriptomics/Proteomics (CITE-seq, REAP-seq)
 - Patch-seq  
 - Mass Cytometry
-- Flow Cytometry
 
 #### Conventional Omics
 
