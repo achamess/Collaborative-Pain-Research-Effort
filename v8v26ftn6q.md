@@ -141,8 +141,7 @@ Viral Tools
 - Silencers
 - Light deliver 
     - Neurolux
-    - Cuffs
-    -
+    - Cuff
 
 #### Chemogenetics and Toxins
 
