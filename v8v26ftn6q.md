@@ -36,7 +36,7 @@
 ##### Calcium Imaging
 
 - GECI (GCaMP)
-- T
+- 
 
 
 ##### Voltage Imaging
