@@ -61,7 +61,7 @@
 
 ##### Activity-Dependent Gene Reporters
 
-Immediate early gene (IEG)-based activity-mapping with different nociceptive and pruriceptive stimuli    
+  
 
 - FosTRAP mouse
 - FosGFP mouse
