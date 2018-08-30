@@ -134,7 +134,7 @@ Viral Tools
 #### Chemogenetics
 
 - DREADDs
-- PSAM
+- PSAMs
 
 #### Gene Manipulation
 
