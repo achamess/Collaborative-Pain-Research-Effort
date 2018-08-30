@@ -134,7 +134,7 @@
 
 ## Applications 
 
-### Question 1: Which cells participate in nocic
+### Question 1: Which cells participate in nociception/pain?
 
 - Brain
 - Spinal Cord
