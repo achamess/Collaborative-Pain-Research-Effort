@@ -25,7 +25,7 @@
 
 ### Spatial Transcriptomics and Proteomics
 
-T
+
 - osmFISH
 - STARmap
 - CODEX
