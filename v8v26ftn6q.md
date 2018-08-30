@@ -94,7 +94,7 @@
 #### Tissue Clearing Microscopy
 
 - CLARITY
-- 
+- CUBIC
 
 
 ##### Visualization
