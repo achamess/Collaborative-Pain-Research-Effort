@@ -181,7 +181,6 @@ Viral Tools
 - Non-neural tissues (e.g. skin, gut)
 
 
-###
 
 
 ### Question 2: How are the cells in the pain system connected?
