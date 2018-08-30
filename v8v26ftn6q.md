@@ -38,7 +38,7 @@
 **Proteomics**
 
 - CODEX
-- DNA-exc
+- DNA-exchaneg
 
 
 
