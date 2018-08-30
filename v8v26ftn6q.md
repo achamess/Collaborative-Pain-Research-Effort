@@ -214,7 +214,7 @@ Viral Tools
 
 ### Question : How do other sensory and motor systems interact with pain-related systems?
 
-### Question : What is the natural variation of 
+### Question : What is the natural variation of pain-related 
 
 ### Goal : Specific targeting and manipulation of pain-related cell types in model organisms and humans
 
