@@ -35,7 +35,7 @@
 
 ##### Calcium Imaging
 
-- 
+- GC
 
 
 ##### Voltage Imaging
