@@ -6,8 +6,6 @@
 - DRG lines
     - With multiple single-cell studies now having defined canonical classes of DRG neurons (Usoskin et al), we should have a standard set of Cre- and Flp- mice that can definitively 
 
-
-
 ### Cell Types
 
 #### Question 1: What are the cell types that reside in pain-related regions of the neuraxis?
