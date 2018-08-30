@@ -147,7 +147,7 @@ Viral Tools
 - Signaling pathways
     - Opioid signaling
     - Adrenergic signaling 
-    - Kinase pathw
+    - Kinase pathways
 
 #### Chemogenetics and Toxins
 
