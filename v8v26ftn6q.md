@@ -18,6 +18,7 @@
 
 - RNA-seq
 - DNA-seq
+- ATAC
 
 #### Spatial Transcriptomics and Proteomics
 
