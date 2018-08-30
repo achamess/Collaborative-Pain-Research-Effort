@@ -204,7 +204,7 @@ Viral Tools
 
 ### Question : How are the cells in the pain system connected?
 
-### Question : What is th
+### Question : What is the behavioral signatur
 
 ### Question : What is the contribution of each cell type to the behavioral outputs of pain?
 
