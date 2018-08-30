@@ -214,7 +214,7 @@ Viral Tools
 
 ### Question : How do other sensory and motor systems interact with pain-related systems?
 
-### Question : What gene
+### Question : What genomic 
 
 ### Goal : Specific targeting and manipulation of pain-related cell types in model organisms and humans
 
