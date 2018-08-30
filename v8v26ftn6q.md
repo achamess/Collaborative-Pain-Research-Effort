@@ -142,7 +142,7 @@ Viral Tools
 - Light deliver 
     - Wireless systems (e.g. Neurolux)
     - Cuff systems 
-    - Traditional 
+    - Traditional fiber optics
 
 #### Chemogenetics and Toxins
 
