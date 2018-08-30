@@ -143,7 +143,7 @@ Viral Tools
     - Wireless systems (e.g. Neurolux)
     - Cuff systems 
     - Traditional fiber optics
-    - Bio
+    - Biolum
 
 #### Chemogenetics and Toxins
 
