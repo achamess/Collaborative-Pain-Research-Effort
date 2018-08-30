@@ -70,7 +70,7 @@
 ##### Neurotransmitter/Signaling Sensors
 
 - GABA (https://www.biorxiv.org/content/early/2018/05/14/322578)
-- Glutamate (iGluSnFR)
+- Glutamate (iGluSnFR) - https://www.addgene.org/106204/
 - 
 
 
