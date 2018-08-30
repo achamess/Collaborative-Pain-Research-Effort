@@ -26,7 +26,7 @@
 - PLISH
 - FISSEQ
 
-#### Proteomics
+##### Proteomics
 
 - CODEX
 - DNA-exchange imaging
