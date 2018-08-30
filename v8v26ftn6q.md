@@ -112,7 +112,7 @@
 - trans-Tango (https://www.ncbi.nlm.nih.gov/pubmed/29107518)
 - MAPseq
 - ConnectID (https://www.biorxiv.org/content/biorxiv/early/2018/07/27/378760.full.pdf)
-- BAR
+- BARseq (https://www.biorxiv.org/content/early/2018/04/03/294637)
 
 Viral Tools
 
