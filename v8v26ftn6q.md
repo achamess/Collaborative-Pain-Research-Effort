@@ -35,7 +35,7 @@
 - PLISH
 - FISSEQ
 - 
-**Proteomics
+**Proteomics**
 
 
 
