@@ -117,7 +117,8 @@ Viral Tools
 
 ##### Analysis
 
-- DeepLabCu
+- DeepLabCut
+- 
 
 
 ### Manipulative Tools
