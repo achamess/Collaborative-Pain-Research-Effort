@@ -115,7 +115,7 @@ Viral Tools
 
 #### Behavioral Assays and Automated Analysis
 
-#### Acq
+#### Acquisi
 
 
 ##### Analysis
