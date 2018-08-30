@@ -1,13 +1,5 @@
 # Outline
 
-## Cell Types
-
-### Question 1: What are the cell types that reside in pain-related regions of the neuraxis?
-
-- Brain
-- Spinal Cord
-- DRG
-- Non-neural tissues (e.g. skin, gut)
 
 
 
