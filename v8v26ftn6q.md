@@ -22,8 +22,6 @@
 - Multimodal Single Cell Transcriptomics/Proteomics (CITE-seq, REAP-seq)
 - Patch-seq  
 
-
-
 ### Spatial Transcriptomics and Proteomics
 
 
