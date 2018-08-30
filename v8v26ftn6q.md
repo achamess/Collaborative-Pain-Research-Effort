@@ -113,7 +113,7 @@ Viral Tools
 - AAV and retro-AAV
 
 
-#### Behavioral 
+#### Behavioral Assays and Automated 
 
 
 ### Manipulative Tools
