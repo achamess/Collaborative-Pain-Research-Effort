@@ -1,5 +1,5 @@
 Purpose and Vision:
-This review article will broadly summarize some of the powerful emerging technologies in neuroscience from w
+This review article will broadly summarize some of the powerful emerging technologies in neuroscience 
 
 
 # Outline
