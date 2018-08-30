@@ -24,7 +24,7 @@
 - MERFISH
 - PLISH
 - FISSEQ
-- 
+
 **Proteomics**
 
 - CODEX
