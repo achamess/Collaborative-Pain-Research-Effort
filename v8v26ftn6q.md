@@ -172,7 +172,7 @@ Viral Tools
 - DART system
 
 
-## Data to Insight - Emerging 
+## Data to Insight - Emerging Analytical 
 
 
 ## Applications 
