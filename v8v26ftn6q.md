@@ -81,7 +81,7 @@
 
 #### In Vivo Electrophysiology
 
-- Neurop
+- Neuropixels 
 
 
 
