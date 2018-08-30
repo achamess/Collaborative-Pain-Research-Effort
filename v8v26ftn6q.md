@@ -81,7 +81,7 @@
 
 #### Electrophysiology
 
-
+####
 - Neuropixels (https://www.nature.com/articles/nature24636)
 
 
