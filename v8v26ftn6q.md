@@ -137,11 +137,10 @@ Viral Tools
 #### Gene Manipulation
 
 - CRISPR-Cas9
-- Cre lines
+- Cre-lox lines
 - 
 
 
-#### Toxins and other silencers 
 
 
 
