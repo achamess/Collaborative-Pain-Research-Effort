@@ -23,7 +23,7 @@
 - LC/MS Proteomics
 - Metabolomics
 - Glycomics
-- PLA-based pro
+- PLA-based proteomics ()
 
 #### Spatial Transcriptomics and Proteomics
 
