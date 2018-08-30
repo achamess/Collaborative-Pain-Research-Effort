@@ -7,7 +7,7 @@
 - Brain
 - Spinal Cord
 - DRG
-- Non-neural tissues (e.g. skin)
+- Non-neural tissues (e.g. skin, gut)
  
 **Solutions**:
 
