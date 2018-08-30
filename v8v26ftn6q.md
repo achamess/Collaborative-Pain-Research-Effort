@@ -9,7 +9,7 @@
 - DRG
 - Non-neural tissues (e.g. skin, gut)
  
-**Solutions**:
+
 
 - Use single-cell or single-nucleus RNA-seq to generate a cellular census at every region
     -  Drop-seq/10x
