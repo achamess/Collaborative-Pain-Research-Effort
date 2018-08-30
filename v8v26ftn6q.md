@@ -196,7 +196,6 @@ Viral Tools
 - DRG
 - Non-neural tissues (e.g. skin, gut)
 
-
 ### Question : How are the cells in the pain system connected?
 
 ### Question : What is the contribution of each cell type to the behavioral outputs of pain?
