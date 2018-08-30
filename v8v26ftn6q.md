@@ -139,7 +139,7 @@ Viral Tools
 - PSAMs
 - Tetanus Toxin
 - DTR
-- ts
+- taCasp4
 
 #### Gene Manipulation
 
