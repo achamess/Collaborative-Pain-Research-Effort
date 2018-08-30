@@ -19,7 +19,7 @@
     -  FACS + Smart-seq2
 
 
-### Spatial Transcriptomics and 
+### Spatial Transcriptomics and Proteomics
 
 
 
