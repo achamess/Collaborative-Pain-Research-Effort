@@ -38,7 +38,7 @@
 - GECI (GCaMP)
 - Two-photon imaging
 - In vivo calcium imaging (Inscopix, Miniscope)
-- Fiber pho
+- Fiber photometry 
 
 
 ##### Voltage Imaging
