@@ -61,7 +61,7 @@
 
 ##### Activity-Dependent Gene Reporters
 
-**Calcium**
+**Calcium*
 - FosTRAP mouse
 - FosGFP mouse
 - FLARE or CAL-LIGHT
