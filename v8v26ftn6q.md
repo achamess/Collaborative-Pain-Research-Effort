@@ -19,7 +19,7 @@
 
 - osmFISH
 - STARmap
-- 
+- HCR
 - seqFISH
 - MERFISH
 - PLISH
