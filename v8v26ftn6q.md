@@ -24,7 +24,7 @@
 
 
 
-### Multiplexed 
+### Multiplexed Imaging
 
 
 
