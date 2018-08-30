@@ -14,7 +14,7 @@
 - Mass Cytometry
 - Flow Cytometry
 
-### Spatial Transcriptomics and Proteomics
+#### Spatial Transcriptomics and Proteomics
 
 #### Transcriptomics
 
