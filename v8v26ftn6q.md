@@ -38,7 +38,7 @@
 **Proteomics**
 
 - CODEX
-- DNA-exchaneg imaging
+- DNA-exchang imaging
 
 
 
