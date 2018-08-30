@@ -93,7 +93,7 @@
 
 #### Tissue Clearing Microscopy
 
-
+- CLARITY
 
 
 ##### Visualization
