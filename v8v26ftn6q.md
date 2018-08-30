@@ -141,7 +141,7 @@ Viral Tools
 - Silencers
 - Light deliver 
     - Wireless systems (e.g. Neurolux)
-    - 
+    - Cuff systems 
 
 #### Chemogenetics and Toxins
 
