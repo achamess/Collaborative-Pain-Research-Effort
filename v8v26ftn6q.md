@@ -75,7 +75,7 @@ Immediate early gene (IEG)-based activity-mapping with different nociceptive and
 
 
 
-## Questions
+## Questions and 
 
 ### Question 1: What are the cell types that reside in pain-related regions of the neuraxis?
 
