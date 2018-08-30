@@ -204,7 +204,7 @@ Viral Tools
 
 ### Question : How are the cells in the pain system connected?
 
-### Question : What is the behavioral signature of pain in 
+### Question : What is the behavioral signature of pain in model organisms and humans?
 
 ### Question : What is the contribution of each cell type to the behavioral outputs of pain?
 
