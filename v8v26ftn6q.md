@@ -1,4 +1,4 @@
-Purpose and 
+Purpose and Vision:
 
 
 
