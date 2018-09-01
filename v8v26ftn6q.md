@@ -153,7 +153,6 @@ This review article will broadly summarize some of the powerful emerging technol
 ### Manipulative Tools 
 
 
-
 #### Optogenetics
 
 - Activators
