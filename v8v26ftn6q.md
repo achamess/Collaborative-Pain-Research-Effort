@@ -195,7 +195,7 @@ Viral Tools
 
 ### Statistical Learning 
 
-### Artificial 
+### Artificial Intelligence 
 
 --------------
 
