@@ -100,7 +100,7 @@ This review article will broadly summarize some of the powerful emerging technol
 - iDisco
 - vDisco
 - uDisco
-- 
+
 
 #### Miscellaneous Microscopy
 
