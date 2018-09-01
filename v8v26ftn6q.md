@@ -232,7 +232,7 @@ Viral Tools
 ----
 # Call to Action?
 
-- Discuss how these big questions require concerted efforts and coordinations
+- Discuss how these big questions require concerted efforts and coordination ao
 
 
 
