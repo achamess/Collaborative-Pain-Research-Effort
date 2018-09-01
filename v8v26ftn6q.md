@@ -129,7 +129,7 @@ Viral Tools
 #### Development and Lineage Recording
 
 - MEMOIR
-- GE
+- GEST
 
 #### Behavioral Assays and Automated Analysis
 
