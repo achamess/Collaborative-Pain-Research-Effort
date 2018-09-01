@@ -98,7 +98,7 @@ This review article will broadly summarize some of the powerful emerging technol
 - CLARITY
 - CUBIC
 - iDisco
-- v
+- vDisco
 
 #### Miscellaneous Microscopy
 
