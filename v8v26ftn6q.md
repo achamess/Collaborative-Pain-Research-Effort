@@ -193,7 +193,7 @@ This review article will broadly summarize some of the powerful emerging technol
 
 ### Bayesian Statistics
 
-### Statistical Learning 
+### Statistical/ Learning 
 
 ### Artificial Intelligence 
 
