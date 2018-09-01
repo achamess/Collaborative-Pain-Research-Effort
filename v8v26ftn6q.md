@@ -232,7 +232,7 @@ Viral Tools
 ----
 # Call to Action?
 
-- Discuss how these big questions require concerted efforts and coordination among many groups. Better to work as large teams than silos.
+- Discuss how these big questions require concerted efforts and coordination among many groups. Better to work as distributed and allied 
 
 
 
