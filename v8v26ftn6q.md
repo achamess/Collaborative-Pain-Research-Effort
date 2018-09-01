@@ -121,7 +121,7 @@ Viral Tools
 
 - PRV
 - Monosynaptic Rabies Tracing
-- Ps
+- Pseudotyped Lentivirus ()
 - HSV and HSV129
 - AAV and retro-AAV
 - CAV-2
