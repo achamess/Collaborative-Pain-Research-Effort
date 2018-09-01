@@ -232,7 +232,7 @@ Viral Tools
 ----
 # Call to Action?
 
-- Discuss how these big 
+- Discuss how these big quesitons
 
 
 
