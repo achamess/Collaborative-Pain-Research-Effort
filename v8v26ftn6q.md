@@ -193,7 +193,7 @@ Viral Tools
 
 ### Bayesian Statistics
 
-### StatLearning 
+### Statistical Learning 
 
 --------------
 
