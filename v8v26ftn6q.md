@@ -223,7 +223,7 @@ This review article will broadly summarize some of the powerful emerging technol
 
 ### Question : Which cell types and cell ensembles are engaged by different noxious stimuli?
 
-**DOne already**
+**Dne already**
 - sc-RNAseq combined with noxious stimuli (Sathyamurthy et al. )
 - Spatial tx combined with noxious stimuli (Haring et al.)
 
