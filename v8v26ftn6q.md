@@ -227,7 +227,7 @@ This review article will broadly summarize some of the powerful emerging technol
 - sc-RNAseq combined with noxious stimuli (Sathyamurthy et al. )
 - Spatial tx combined with noxious stimuli (Haring et al.)
 
-**Possibilities
+**Possibilities**
 
 ### Question : How do different pathological insults alter the properties of pain-related cell types?
 
