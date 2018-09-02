@@ -228,7 +228,8 @@ This review article will broadly summarize some of the powerful emerging technol
 - Spatial tx combined with noxious stimuli (Haring et al.)
 
 **Possibilities**
-- Noxious stimuli + tissue clearing of the entire CNS + IEG staining or 
+- Noxious stimuli + tissue clearing of the entire CNS + IEG staining or reporter
+- Highly multiplex IEG 
 
 
 ### Question : How do different pathological insults alter the properties of pain-related cell types?
