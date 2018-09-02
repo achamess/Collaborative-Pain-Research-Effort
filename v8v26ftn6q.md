@@ -223,7 +223,7 @@ This review article will broadly summarize some of the powerful emerging technol
 
 ### Question : Which cell types and cell ensembles are engaged by different noxious stimuli?
 
-- sc-RNAseq combined with noxious stimuli ()
+- sc-RNAseq combined with noxious stimuli (Sat)
 - Spatial tx combined with noxious stimuli (Haring)
 
 ### Question : How do different pathological insults alter the properties of pain-related cell types?
