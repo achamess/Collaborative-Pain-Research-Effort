@@ -230,7 +230,7 @@ This review article will broadly summarize some of the powerful emerging technol
 **Possibilities**
 - Noxious stimuli + tissue clearing of the entire CNS + IEG staining or reporter
 - Highly multiplex IEG Spatial Tx to identify activated cell types in regions identified through tissue clearing. Alternatively, single cell RNA-seq. 
-- Cal-Light 
+- Cal-Light/Flare
 
 
 ### Question : How do different pathological insults alter the properties of pain-related cell types?
